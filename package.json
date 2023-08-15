@@ -1,8 +1,9 @@
 {
-  "name": "async-commander",
+  "name": "recommander",
   "version": "0.1.0",
-  "description": "Commander.js subclasses with extra async features",
+  "description": "Commander.js subclasses with extra features",
   "keywords": [
+    "recommander",
     "commander.js",
     "commander",
     "command",
@@ -24,7 +25,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aweebit/async-commander.git"
+    "url": "https://github.com/aweebit/recommander.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
